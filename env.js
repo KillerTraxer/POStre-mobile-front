@@ -35,7 +35,7 @@ require('dotenv').config({
 // TODO: Replace these values with your own
 
 const BUNDLE_ID = 'com.postre-mobile-front'; // ios bundle id
-const PACKAGE = 'com.postre-mobile-front'; // android package name
+const PACKAGE = 'com.postre_mobile_front'; // android package name
 const NAME = 'POStre-mobile-front'; // app name
 const EXPO_ACCOUNT_OWNER = 'expo-owner'; // expo account owner
 const EAS_PROJECT_ID = 'c3e1075b-6fe7-4686-aa49-35b46a229044'; // eas project id
